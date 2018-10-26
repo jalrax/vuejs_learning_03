@@ -2,6 +2,7 @@
   "name": "vuejs_learning_03",
   "version": "0.1.0",
   "private": true,
+  "baseUrl": "https://jalrax.github.io/vuejs_learning_03/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,6 +11,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "vue": "^2.5.17",
+    "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
